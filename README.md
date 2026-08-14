@@ -13,7 +13,7 @@ I'm a passionate Full Stack Developer with a B.E. in Information Technology (SPP
 - 🏗️ Experienced in building **Microservices Architecture, REST APIs, and JWT Authentication**
 - 🌱 Currently learning **Docker, AWS, Cloud Computing, and CI/CD Pipelines**
 - 💼 Open to **Full Stack Developer / SDE Roles**
-- 📫 Reach me at **[Your Email Here]**
+- 📫 Reach me at **[manasikumkar3@gmail.com]**
 
 ---
 
@@ -111,11 +111,12 @@ I'm a passionate Full Stack Developer with a B.E. in Information Technology (SPP
 
 # 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manasi-kumkar-b090a531a/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Manasikumkar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-omega-lyart-58.vercel.app/)
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manasikumkar3@gmail.com)
 
 ---
 
